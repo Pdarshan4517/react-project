@@ -1,0 +1,68 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "servicename": "car engine serivice",
+      "discription": "changing car oil",
+      "serviceimg": "https://www.shutterstock.com/image-photo/mechanic-pouring-oil-into-engine-600nw-2196366251.jpg"
+    },
+    {
+      "id": "2",
+      "servicename": "car wheel serivice",
+      "discription": "removing car wheel and checked all wheel perticularlly and check the problem",
+      "serviceimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKICHQnRswVuCEr3RJK7jgfCVcBftCn0fEw&s"
+    },
+    {
+      "id": "3",
+      "servicename": "car modification",
+      "discription": "In this services changing car wheel size, color,redium,and also matting",
+      "serviceimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRT-YXys8Lxl489CV4i2wFx5OM553DrpE0wQ&s"
+    },
+    {
+      "id": "1721206672632",
+      "servicename": [
+        "jjcklsdskdldkaldksa"
+      ],
+      "discription": [
+        "ifdfdsjfiosdjfiodjfiosdfosdfds"
+      ],
+      "serviceimg": [
+        "https://jenkinspain.com/wp-content/uploads/2022/10/FI-wheel-alignment.jpeg"
+      ]
+    },
+    {
+      "id": "1721637567329",
+      "servicename": "akash ",
+      "discription": "hdhasdkjahsdkjashjdkashdjhas",
+      "serviceimg": "https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19705.jpg"
+    }
+  ],
+  "admin":[
+    {
+     "id":"1",
+     "name":"darshan",
+     "email":"admin23@gmail.com",
+     "password":"1234"
+    }
+  ],
+  "user":[
+    {
+      "id": "1",
+      "name": "darshan",
+      "email": "darshan@gmail.com",
+      "password": "0123456",
+      "mobile": "9998996855",
+      "image": "https://apollo.olx.in/v1/files/uxuwam8bcisq3-IN/image;s=360x0",
+      "status": "unblock"
+    },
+    {
+      "id": "2",
+      "name": "veer",
+      "email": "veer1@gmail.com",
+      "password": "11223344",
+      "mobile": "89913405060",
+      "image": "https://apollo.olx.in/v1/files/uxuwam8bcisq3-IN/image;s=360x0",
+      "status": "unblock"
+    }
+  ]
+}
