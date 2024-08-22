@@ -13,6 +13,7 @@ import Uregister from './WEBSITE SITE/PAGES/Uregister'
 import { ToastContainer } from 'react-toastify'
 import Alogin from './ADMIN SITE/Pages/Alogin'
 import Usermanage from './ADMIN SITE/Pages/Usermanage'
+import Managecontact from './ADMIN SITE/Pages/Managecontact'
 
 
 
@@ -39,6 +40,8 @@ function App() {
     <Route path='/mangeservice' element={<><Manageservice></Manageservice></>}></Route>
     <Route path='/Alogin' element={<><Alogin></Alogin></>}></Route>
     <Route path='/usermanage' element={<><Usermanage></Usermanage></>}></Route>
+    <Route path='/Managecontact' element={<><Managecontact></Managecontact></>}></Route>
+   
     </Routes>
     </BrowserRouter>
     </div>
